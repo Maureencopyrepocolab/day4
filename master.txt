@@ -1,2 +1,6 @@
 hello
+<<<<<<< Updated upstream
 This is uncommited change in login
+=======
+This is uncommited change
+>>>>>>> Stashed changes
